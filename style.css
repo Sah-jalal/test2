@@ -1,0 +1,34 @@
+body{
+    font-family: fantasy;
+    margin: 0px;
+}
+.container{
+    width: 100%;
+    height: 300px;
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+    height: 518px;
+    /* background-image: linear-gradient(rgba(115, 12, 141, 0.26), rgba(9, 102, 163, 0.548)); */
+}
+.text {
+    width: 30%;
+    float: left;
+    padding: 100px 182px;
+}
+.img {
+    width: 40%;
+    padding-right: 34px;
+    float: right;
+}
+.img img{
+    width: 100%;
+}
+.button{
+   
+    padding: 8px 30px;
+    background-image: linear-gradient(rgba(6, 158, 247, 0.932), rgb(250, 37, 232));
+    border-radius: 10px;
+    border: none;
+    color: white;
+    text-decoration: none; background-color: rgba(204, 128, 14, 0.87);
+}
