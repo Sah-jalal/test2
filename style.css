@@ -52,3 +52,26 @@ body{
     float: right;
     margin: 180px;
 }
+
+/* ------------last-section--------- */
+
+.expirience{
+    display: flex;
+    width: 100%;
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+   
+}
+.experi{
+    width: 40%;
+    float: left;
+    margin: 60px;
+    border-collapse: separate;
+    height: 400px;
+    box-shadow: 5px 5px 5px 5px rgba(0, 0, 0, 0.418);
+    border-left: 4px solid rgba(2, 124, 224, 0.712);
+}
+.heading{
+    padding: 60px;
+}
